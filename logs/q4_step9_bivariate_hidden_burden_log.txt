@@ -1,0 +1,60 @@
+Step 9 started: 2026-03-16 13:50:55.87735 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 8 object with  280  catchments.
+
+Hidden burden summary:
+      hidden_burden_admissions_flag   n    outcome     hidden_burden_deaths_flag
+1 Hidden burden admissions priority  67 Admissions                          <NA>
+2                             Other 213 Admissions                          <NA>
+3                              <NA>  78     Deaths Hidden burden deaths priority
+4                              <NA> 202     Deaths                         Other
+
+Top hidden-burden admissions catchments:
+   catchment_poly_id region corisk_score service_deficit_std observed_admissions
+1                174   <NA>    0.9052900                   1                   0
+2                148   <NA>    0.8939851                   1                   0
+3                190   <NA>    0.8922218                   1                   0
+4                 92   <NA>    0.8054404                   1                   0
+5                126   <NA>    0.7748034                   1                   0
+6                 78   <NA>    0.7682100                   1                   0
+7                 83   <NA>    0.7645316                   1                   0
+8                111   <NA>    0.7609909                   1                   0
+9                 25   <NA>    0.7583559                   1                   0
+10               168   <NA>    0.7418732                   1                   0
+   expected_admissions oe_admissions
+1        0.00026984641             0
+2        0.00114922434             0
+3        0.00189150991             0
+4        0.00021681079             0
+5        0.00052675886             0
+6        0.00004539485             0
+7        0.00004144872             0
+8        0.00006174619             0
+9        0.00246285663             0
+10       0.00247828260             0
+
+Top hidden-burden deaths catchments:
+   catchment_poly_id region corisk_score service_deficit_std observed_deaths
+1                174   <NA>    0.9052900                   1               0
+2                148   <NA>    0.8939851                   1               0
+3                190   <NA>    0.8922218                   1               0
+4                 92   <NA>    0.8054404                   1               0
+5                126   <NA>    0.7748034                   1               0
+6                 78   <NA>    0.7682100                   1               0
+7                 83   <NA>    0.7645316                   1               0
+8                111   <NA>    0.7609909                   1               0
+9                 25   <NA>    0.7583559                   1               0
+10               168   <NA>    0.7418732                   1               0
+   expected_deaths oe_deaths
+1   0.000002805249         0
+2   0.000004612571         0
+3   0.000005148957         0
+4   0.000003744169         0
+5   0.000010821499         0
+6   0.000002434785         0
+7   0.000002584522         0
+8   0.000004731461         0
+9   0.000009334077         0
+10  0.000010035842         0
+
+Step 9 completed:  2026-03-16 13:51:44.700409 

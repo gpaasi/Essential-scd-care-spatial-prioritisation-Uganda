@@ -1,0 +1,77 @@
+Step 11 started: 2026-03-16 14:06:45.783863 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 10 dataset with  280  catchments.
+Loaded Step 10 dataset with  280  catchments.
+Contextual covariates missing from Step 10 dataset:  dominant_type, dominant_ownership, dominant_f15region 
+Attempting recovery from earlier datasets.
+Contextual covariates missing from Step 10 dataset:  dominant_type, dominant_ownership, dominant_f15region 
+Attempting to build them from the health facility CSV.
+Contextual covariates missing from Step 10 dataset:  dominant_type, dominant_ownership, dominant_f15region 
+Attempting to build them from the health facility CSV.
+Contextual covariates derived from health facility CSV and joined to q4.
+
+Observed factor levels:
+     dominant_type dominant_ownership dominant_f15region 
+                 4                  5                 15 
+Single-service models fitted.
+Joint-service models fitted.
+
+Single-service model results:
+# A tibble: 16 × 12
+   outcome   model term  beta_mean beta_sd beta_q025 beta_q50 beta_q975 rr_mean rr_q025
+   <chr>     <chr> <chr>     <dbl>   <dbl>     <dbl>    <dbl>     <dbl>   <dbl>   <dbl>
+ 1 SCD admi… Admi… cori…     1.65    0.692    0.292     1.65       3.01    5.20   1.34 
+ 2 SCD admi… Admi… acce…     1.70    0.512    0.699     1.70       2.71    5.48   2.01 
+ 3 SCD deat… Deat… cori…     0.782   0.556   -0.305     0.780      1.88    2.19   0.737
+ 4 SCD deat… Deat… acce…     1.45    0.408    0.659     1.45       2.26    4.27   1.93 
+ 5 SCD admi… Admi… cori…     1.60    0.698    0.227     1.59       2.97    4.93   1.26 
+ 6 SCD admi… Admi… acce…     0.992   0.570   -0.127     0.991      2.11    2.70   0.881
+ 7 SCD deat… Deat… cori…     0.674   0.564   -0.429     0.673      1.79    1.96   0.651
+ 8 SCD deat… Deat… acce…     0.760   0.450   -0.123     0.758      1.65    2.14   0.885
+ 9 SCD admi… Admi… cori…     0.769   0.615   -0.438     0.769      1.98    2.16   0.645
+10 SCD admi… Admi… acce…     4.90    0.577    3.78      4.90       6.04  134.    43.7  
+11 SCD deat… Deat… cori…     0.218   0.515   -0.793     0.218      1.23    1.24   0.453
+12 SCD deat… Deat… acce…     4.11    0.682    2.79      4.11       5.47   61.1   16.3  
+13 SCD admi… Admi… cori…     1.72    0.703    0.347     1.72       3.11    5.61   1.41 
+14 SCD admi… Admi… acce…     0.972   0.48     0.0292    0.972      1.91    2.64   1.03 
+15 SCD deat… Deat… cori…     0.893   0.549   -0.181     0.891      1.98    2.44   0.834
+16 SCD deat… Deat… acce…     1.28    0.377    0.541     1.28       2.02    3.59   1.72 
+# ℹ 2 more variables: rr_q975 <dbl>, term_label <chr>
+
+Joint-service model results:
+# A tibble: 10 × 12
+   outcome   model term  beta_mean beta_sd beta_q025 beta_q50 beta_q975 rr_mean rr_q025
+   <chr>     <chr> <chr>     <dbl>   <dbl>     <dbl>    <dbl>     <dbl>   <dbl>   <dbl>
+ 1 SCD admi… Join… cori…    0.871    0.619   -0.344    0.871      2.09    2.39    0.709
+ 2 SCD admi… Join… acce…    0.943    0.523   -0.0816   0.942      1.97    2.57    0.922
+ 3 SCD admi… Join… acce…    0.305    0.614   -0.902    0.304      1.51    1.36    0.406
+ 4 SCD admi… Join… acce…    4.66     0.580    3.54     4.66       5.82  106.     34.4  
+ 5 SCD admi… Join… acce…   -0.0539   0.564   -1.16    -0.0531     1.05    0.948   0.312
+ 6 SCD deat… Join… cori…    0.488    0.509   -0.510    0.487      1.49    1.63    0.600
+ 7 SCD deat… Join… acce…    0.876    0.427    0.0423   0.874      1.72    2.40    1.04 
+ 8 SCD deat… Join… acce…   -0.190    0.491   -1.16    -0.189      0.772   0.827   0.314
+ 9 SCD deat… Join… acce…    3.98     0.686    2.65     3.98       5.35   53.7    14.2  
+10 SCD deat… Join… acce…    0.687    0.465   -0.225    0.686      1.60    1.99    0.799
+# ℹ 2 more variables: rr_q975 <dbl>, term_label <chr>
+
+Single-service fit summary:
+# A tibble: 8 × 5
+  model            model_label                               dic  waic mean_neg_log_cpo
+  <chr>            <chr>                                   <dbl> <dbl>            <dbl>
+1 adm_access_nbs   Admissions, Newborn screening availabi… 1319. 1784.            Inf  
+2 death_access_nbs Deaths, Newborn screening availability   694.  796.            Inf  
+3 adm_access_hu    Admissions, Hydroxyurea availability    1336. 1896.            Inf  
+4 death_access_hu  Deaths, Hydroxyurea availability         708.  828.            Inf  
+5 adm_access_tr    Admissions, Transfusion availability    1188. 1265.             17.7
+6 death_access_tr  Deaths, Transfusion availability         633.  681.            Inf  
+7 adm_access_cl    Admissions, Specialised clinic availab… 1331. 1868.            Inf  
+8 death_access_cl  Deaths, Specialised clinic availability  697.  800.            Inf  
+
+Joint-service fit summary:
+# A tibble: 2 × 4
+  model                       dic  waic mean_neg_log_cpo
+  <chr>                     <dbl> <dbl>            <dbl>
+1 Admissions, joint-service 1188. 1263.             17.9
+2 Deaths, joint-service      623.  660.            Inf  
+
+Step 11 completed:  2026-03-16 14:43:19.046742 

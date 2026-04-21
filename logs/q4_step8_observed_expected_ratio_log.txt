@@ -1,0 +1,71 @@
+Step 8 started: 2026-03-16 17:40:08.892526 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 7 object with 280 catchments. 
+ 
+O:E summary: 
+  mean_oe_admissions median_oe_admissions mean_oe_deaths median_oe_deaths
+1           66306.19                    0       36438.93                0
+ 
+O:E class summary: 
+     outcome                class   n
+1 Admissions  Lower than expected 161
+2 Admissions Higher than expected 119
+3     Deaths  Lower than expected 186
+4     Deaths Higher than expected  94
+ 
+O:E by region: 
+# A tibble: 1 × 6
+  region_out n_catchments mean_oe_admissions median_oe_admissions mean_oe_deaths
+  <chr>             <int>              <dbl>                <dbl>          <dbl>
+1 <NA>                280             66306.                    0         36439.
+# ℹ 1 more variable: median_oe_deaths <dbl>
+ 
+Lowest O:E admissions catchments: 
+   catchment_poly_id region observed      expected oe_ratio corisk_score
+1                174   <NA>        0 0.00026984641        0    0.9052900
+2                148   <NA>        0 0.00114922434        0    0.8939851
+3                190   <NA>        0 0.00189150991        0    0.8922218
+4                 92   <NA>        0 0.00021681079        0    0.8054404
+5                126   <NA>        0 0.00052675886        0    0.7748034
+6                 78   <NA>        0 0.00004539485        0    0.7682100
+7                 83   <NA>        0 0.00004144872        0    0.7645316
+8                111   <NA>        0 0.00006174619        0    0.7609909
+9                 25   <NA>        0 0.00246285663        0    0.7583559
+10               168   <NA>        0 0.00247828260        0    0.7418732
+   service_deficit_std
+1                    1
+2                    1
+3                    1
+4                    1
+5                    1
+6                    1
+7                    1
+8                    1
+9                    1
+10                   1
+ 
+Lowest O:E deaths catchments: 
+   catchment_poly_id region observed       expected oe_ratio corisk_score
+1                174   <NA>        0 0.000002805249        0    0.9052900
+2                148   <NA>        0 0.000004612571        0    0.8939851
+3                190   <NA>        0 0.000005148957        0    0.8922218
+4                 92   <NA>        0 0.000003744169        0    0.8054404
+5                126   <NA>        0 0.000010821499        0    0.7748034
+6                 78   <NA>        0 0.000002434785        0    0.7682100
+7                 83   <NA>        0 0.000002584522        0    0.7645316
+8                111   <NA>        0 0.000004731461        0    0.7609909
+9                 25   <NA>        0 0.000009334077        0    0.7583559
+10               168   <NA>        0 0.000010035842        0    0.7418732
+   service_deficit_std
+1                    1
+2                    1
+3                    1
+4                    1
+5                    1
+6                    1
+7                    1
+8                    1
+9                    1
+10                   1
+ 
+Step 8 completed: 2026-03-16 17:41:47.347954 

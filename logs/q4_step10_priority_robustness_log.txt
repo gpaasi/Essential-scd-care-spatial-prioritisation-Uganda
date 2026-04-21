@@ -1,0 +1,63 @@
+Step 10 started: 2026-03-16 14:02:23.374341 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 9 object with  280  catchments.
+
+Robustness summary:
+         robustness_class   n  pct
+1  Highly robust priority  50 17.9
+2 Low robustness priority  23  8.2
+3         Not prioritised 207 73.9
+
+Top robust priority catchments:
+   catchment_poly_id region n_scenarios_top50       robustness_class score_base
+1                174   <NA>                 6 Highly robust priority  0.8573805
+2                148   <NA>                 6 Highly robust priority  0.8522933
+3                190   <NA>                 6 Highly robust priority  0.8514998
+4                 92   <NA>                 6 Highly robust priority  0.8124482
+5                126   <NA>                 6 Highly robust priority  0.7986615
+6                 78   <NA>                 6 Highly robust priority  0.7956945
+7                 83   <NA>                 6 Highly robust priority  0.7940392
+8                111   <NA>                 6 Highly robust priority  0.7924459
+9                 25   <NA>                 6 Highly robust priority  0.7912602
+10               168   <NA>                 6 Highly robust priority  0.7838429
+   score_corisk_emphasis score_service_emphasis score_no_burden score_death_heavy
+1              0.8431740              0.8715870       0.9526450         0.7621160
+2              0.8363911              0.8681955       0.9469926         0.7575941
+3              0.8353331              0.8676666       0.9461109         0.7568887
+4              0.7832643              0.8416321       0.9027202         0.7221762
+5              0.7648820              0.8324410       0.8874017         0.7099214
+6              0.7609260              0.8304630       0.8841050         0.7072840
+7              0.7587190              0.8293595       0.8822658         0.7058127
+8              0.7565945              0.8282973       0.8804954         0.7043963
+9              0.7550136              0.8275068       0.8791780         0.7033424
+10             0.7451239              0.8225620       0.8709366         0.6967493
+   score_admission_heavy corisk_score service_deficit_std
+1              0.7621160    0.9052900                   1
+2              0.7575941    0.8939851                   1
+3              0.7568887    0.8922218                   1
+4              0.7221762    0.8054404                   1
+5              0.7099214    0.7748034                   1
+6              0.7072840    0.7682100                   1
+7              0.7058127    0.7645316                   1
+8              0.7043963    0.7609909                   1
+9              0.7033424    0.7583559                   1
+10             0.6967493    0.7418732                   1
+
+Pairwise overlap matrix:
+# A tibble: 36 × 4
+   scenario_a               scenario_b       overlap_n overlap_pct_of_50
+   <chr>                    <chr>                <int>             <dbl>
+ 1 Base                     Base                    50              1   
+ 2 Co-risk emphasis         Base                    41              0.82
+ 3 Service deficit emphasis Base                    36              0.72
+ 4 No burden term           Base                    50              1   
+ 5 Death-heavy              Base                    50              1   
+ 6 Admission-heavy          Base                    50              1   
+ 7 Base                     Co-risk emphasis        41              0.82
+ 8 Co-risk emphasis         Co-risk emphasis        50              1   
+ 9 Service deficit emphasis Co-risk emphasis        27              0.54
+10 No burden term           Co-risk emphasis        41              0.82
+# ℹ 26 more rows
+# ℹ Use `print(n = ...)` to see more rows
+
+Step 10 completed:  2026-03-16 14:02:59.395178 
