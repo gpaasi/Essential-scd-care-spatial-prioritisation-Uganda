@@ -1,0 +1,47 @@
+subregion,programme_priority_type,n,pct_within_subregion
+ACHOLI,Lower immediate priority,8,0.5333333333333333
+ACHOLI,Access strengthening priority,7,0.4666666666666667
+ANKOLE,Co-risk surveillance priority,20,0.5882352941176471
+ANKOLE,High need high burden priority,10,0.29411764705882354
+ANKOLE,Hidden burden priority,3,0.08823529411764706
+ANKOLE,High need access priority,1,0.029411764705882353
+BUGISU_SEBEI,Lower immediate priority,7,0.5833333333333334
+BUGISU_SEBEI,Access strengthening priority,3,0.25
+BUGISU_SEBEI,Co-risk surveillance priority,2,0.16666666666666666
+BUKEDI,Lower immediate priority,10,0.6666666666666666
+BUKEDI,Access strengthening priority,5,0.3333333333333333
+BUNYORO,Lower immediate priority,7,0.5
+BUNYORO,Access strengthening priority,4,0.2857142857142857
+BUNYORO,Co-risk surveillance priority,2,0.14285714285714285
+BUNYORO,High need access priority,1,0.07142857142857142
+BUSOGA,Lower immediate priority,15,0.7142857142857143
+BUSOGA,Access strengthening priority,6,0.2857142857142857
+CENTRAL I,Co-risk surveillance priority,13,0.6190476190476191
+CENTRAL I,High need high burden priority,6,0.2857142857142857
+CENTRAL I,Hidden burden priority,2,0.09523809523809523
+CENTRAL II,Lower immediate priority,14,0.4666666666666667
+CENTRAL II,Access strengthening priority,11,0.36666666666666664
+CENTRAL II,Co-risk surveillance priority,3,0.1
+CENTRAL II,Hidden burden priority,1,0.03333333333333333
+CENTRAL II,High need high burden priority,1,0.03333333333333333
+GREATER KAMPALA,Lower immediate priority,18,0.6923076923076923
+GREATER KAMPALA,Access strengthening priority,7,0.2692307692307692
+GREATER KAMPALA,Hidden burden priority,1,0.038461538461538464
+KARAMOJA,Access strengthening priority,3,0.42857142857142855
+KARAMOJA,Lower immediate priority,3,0.42857142857142855
+KARAMOJA,Co-risk surveillance priority,1,0.14285714285714285
+KIGEZI,Co-risk surveillance priority,10,0.5882352941176471
+KIGEZI,High need high burden priority,5,0.29411764705882354
+KIGEZI,Hidden burden priority,2,0.11764705882352941
+LANGO,Access strengthening priority,12,0.8571428571428571
+LANGO,Lower immediate priority,2,0.14285714285714285
+TESO,Lower immediate priority,11,0.6111111111111112
+TESO,Access strengthening priority,7,0.3888888888888889
+TORO,Co-risk surveillance priority,13,0.6190476190476191
+TORO,High need high burden priority,6,0.2857142857142857
+TORO,Hidden burden priority,2,0.09523809523809523
+WEST NILE,Lower immediate priority,5,0.3333333333333333
+WEST NILE,Co-risk surveillance priority,4,0.26666666666666666
+WEST NILE,Access strengthening priority,3,0.2
+WEST NILE,High need high burden priority,2,0.13333333333333333
+WEST NILE,Hidden burden priority,1,0.06666666666666667

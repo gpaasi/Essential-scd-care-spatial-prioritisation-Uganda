@@ -1,0 +1,5 @@
+equity_class,n,pct
+High co-risk + low service access,95,33.9
+High co-risk + high service access,45,16.1
+Low co-risk + low service access,110,39.3
+Low co-risk + high service access,30,10.7

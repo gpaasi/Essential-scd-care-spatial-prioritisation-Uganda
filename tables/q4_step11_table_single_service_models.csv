@@ -1,0 +1,9 @@
+outcome,model,predictor,rr_mean,rr_q025,rr_q975
+SCD admissions,"Admissions, Newborn screening availability",Newborn screening available,5.476,2.011,15.019
+SCD deaths,"Deaths, Newborn screening availability",Newborn screening available,4.268,1.932,9.592
+SCD admissions,"Admissions, Hydroxyurea availability",Hydroxyurea available,2.696,0.881,8.266
+SCD deaths,"Deaths, Hydroxyurea availability",Hydroxyurea available,2.137,0.885,5.196
+SCD admissions,"Admissions, Transfusion availability",Transfusion available,134.201,43.744,421.845
+SCD deaths,"Deaths, Transfusion availability",Transfusion available,61.129,16.264,237.543
+SCD admissions,"Admissions, Specialised clinic availability",Specialised clinic available,2.643,1.03,6.787
+SCD deaths,"Deaths, Specialised clinic availability",Specialised clinic available,3.587,1.718,7.564

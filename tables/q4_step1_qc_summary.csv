@@ -1,0 +1,8 @@
+metric,value
+n_catchments,280
+n_facilities_master,296
+n_facilities_with_coordinates,296
+n_facilities_linked_to_catchments,296
+catchments_missing_hbs,0
+catchments_missing_pfpr,5
+catchments_missing_population,0

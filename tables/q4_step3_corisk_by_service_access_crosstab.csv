@@ -1,0 +1,5 @@
+corisk_group,service_access_group,n,pct_within_corisk
+High co-risk,High service access,45,32.1
+High co-risk,Low service access,95,67.9
+Low co-risk,High service access,30,21.4
+Low co-risk,Low service access,110,78.6

@@ -1,0 +1,37 @@
+scenario_a,scenario_b,overlap_n,overlap_pct_of_50
+Base,Base,50,1
+Co-risk emphasis,Base,41,0.82
+Service deficit emphasis,Base,36,0.72
+No burden term,Base,50,1
+Death-heavy,Base,50,1
+Admission-heavy,Base,50,1
+Base,Co-risk emphasis,41,0.82
+Co-risk emphasis,Co-risk emphasis,50,1
+Service deficit emphasis,Co-risk emphasis,27,0.54
+No burden term,Co-risk emphasis,41,0.82
+Death-heavy,Co-risk emphasis,41,0.82
+Admission-heavy,Co-risk emphasis,41,0.82
+Base,Service deficit emphasis,36,0.72
+Co-risk emphasis,Service deficit emphasis,27,0.54
+Service deficit emphasis,Service deficit emphasis,50,1
+No burden term,Service deficit emphasis,36,0.72
+Death-heavy,Service deficit emphasis,36,0.72
+Admission-heavy,Service deficit emphasis,36,0.72
+Base,No burden term,50,1
+Co-risk emphasis,No burden term,41,0.82
+Service deficit emphasis,No burden term,36,0.72
+No burden term,No burden term,50,1
+Death-heavy,No burden term,50,1
+Admission-heavy,No burden term,50,1
+Base,Death-heavy,50,1
+Co-risk emphasis,Death-heavy,41,0.82
+Service deficit emphasis,Death-heavy,36,0.72
+No burden term,Death-heavy,50,1
+Death-heavy,Death-heavy,50,1
+Admission-heavy,Death-heavy,50,1
+Base,Admission-heavy,50,1
+Co-risk emphasis,Admission-heavy,41,0.82
+Service deficit emphasis,Admission-heavy,36,0.72
+No burden term,Admission-heavy,50,1
+Death-heavy,Admission-heavy,50,1
+Admission-heavy,Admission-heavy,50,1

@@ -1,0 +1,74 @@
+catchment_poly_id,region,n_scenarios_top50,scenarios
+25,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+34,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+78,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+83,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+84,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+90,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+92,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+93,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+94,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+96,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+97,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+104,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+111,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+126,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+130,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+134,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+138,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+139,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+148,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+163,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+168,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+171,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+172,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+174,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+189,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+190,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+255,NA,6,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term; Service deficit emphasis
+35,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+60,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+88,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+99,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+105,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+115,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+122,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+123,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+137,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+141,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+146,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+152,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+160,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+161,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+162,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+164,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+166,NA,5,Admission-heavy; Base; Death-heavy; No burden term; Service deficit emphasis
+170,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+175,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+177,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+178,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+187,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+191,NA,5,Admission-heavy; Base; Co-risk emphasis; Death-heavy; No burden term
+33,NA,1,Service deficit emphasis
+53,NA,1,Service deficit emphasis
+55,NA,1,Service deficit emphasis
+59,NA,1,Service deficit emphasis
+68,NA,1,Service deficit emphasis
+74,NA,1,Service deficit emphasis
+95,NA,1,Co-risk emphasis
+98,NA,1,Co-risk emphasis
+101,NA,1,Co-risk emphasis
+117,NA,1,Service deficit emphasis
+119,NA,1,Service deficit emphasis
+125,NA,1,Co-risk emphasis
+133,NA,1,Service deficit emphasis
+135,NA,1,Co-risk emphasis
+136,NA,1,Co-risk emphasis
+144,NA,1,Co-risk emphasis
+176,NA,1,Co-risk emphasis
+182,NA,1,Service deficit emphasis
+188,NA,1,Co-risk emphasis
+206,NA,1,Service deficit emphasis
+208,NA,1,Service deficit emphasis
+209,NA,1,Service deficit emphasis
+253,NA,1,Service deficit emphasis

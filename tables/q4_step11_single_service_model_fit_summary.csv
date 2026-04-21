@@ -1,0 +1,9 @@
+model,model_label,dic,waic,mean_neg_log_cpo
+adm_access_nbs,"Admissions, Newborn screening availability",1318.9205562297977,1783.5517699981042,Inf
+death_access_nbs,"Deaths, Newborn screening availability",694.3105894345485,796.0437744628707,Inf
+adm_access_hu,"Admissions, Hydroxyurea availability",1335.9521311274277,1895.7463311040685,Inf
+death_access_hu,"Deaths, Hydroxyurea availability",708.0956683312015,827.6049546593077,Inf
+adm_access_tr,"Admissions, Transfusion availability",1188.1140799570958,1264.9396879745427,17.748289484873162
+death_access_tr,"Deaths, Transfusion availability",632.5200440600497,680.7282520404112,Inf
+adm_access_cl,"Admissions, Specialised clinic availability",1331.3941163892382,1867.7525079595264,Inf
+death_access_cl,"Deaths, Specialised clinic availability",697.0254045326942,800.2016739894866,Inf

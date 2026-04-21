@@ -1,0 +1,5 @@
+hidden_burden_admissions_flag,n,outcome,hidden_burden_deaths_flag
+Hidden burden admissions priority,67,Admissions,NA
+Other,213,Admissions,NA
+NA,78,Deaths,Hidden burden deaths priority
+NA,202,Deaths,Other

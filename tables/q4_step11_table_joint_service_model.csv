@@ -1,0 +1,11 @@
+outcome,predictor,rr_mean,rr_q025,rr_q975
+SCD admissions,Co-risk score (standardised),2.39,0.709,8.074
+SCD admissions,Newborn screening available,2.567,0.922,7.186
+SCD admissions,Hydroxyurea available,1.356,0.406,4.541
+SCD admissions,Transfusion available,106.132,34.367,335.995
+SCD admissions,Specialised clinic available,0.948,0.312,2.863
+SCD deaths,Co-risk score (standardised),1.629,0.6,4.442
+SCD deaths,Newborn screening available,2.401,1.043,5.598
+SCD deaths,Hydroxyurea available,0.827,0.314,2.165
+SCD deaths,Transfusion available,53.68,14.194,210.135
+SCD deaths,Specialised clinic available,1.988,0.799,4.966
