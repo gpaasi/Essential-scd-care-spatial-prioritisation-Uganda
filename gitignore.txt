@@ -1,0 +1,61 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Renviron
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+!renv/activate.R
+!renv/settings.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Quarto / docs build
+.quarto/
+_site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw and restricted data
+data/raw/*
+!data/raw/.gitkeep
+
+# Large or derived intermediate data
+data/interim/*
+!data/interim/.gitkeep
+
+# Processed outputs you may not want versioned by default
+data/processed/*
+!data/processed/.gitkeep
+
+# Results
+results/tables/*
+!results/tables/.gitkeep
+results/figures/*
+!results/figures/.gitkeep
+results/maps/*
+!results/maps/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
