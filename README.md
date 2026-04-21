@@ -1,6 +1,12 @@
 # Spatial prioritisation for expansion of essential sickle cell disease services across health-facility catchments in Uganda using sickle cell-malaria co-risk and existing service deficits
 
-DOI release License: MIT R reproducibility: renv issues pull requests
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19683736.svg)](https://doi.org/10.5281/zenodo.19683736)
+[![release](https://img.shields.io/github/v/release/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda)](https://github.com/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![R](https://img.shields.io/badge/R-%3E%3D%204.3-276DC3)](https://www.r-project.org/)
+[![reproducibility](https://img.shields.io/badge/reproducibility-renv-brightgreen)](https://rstudio.github.io/renv/)
+[![issues](https://img.shields.io/github/issues/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda)](https://github.com/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda/issues)
+[![pull requests](https://img.shields.io/github/issues-pr/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda)](https://github.com/gpaasi/Essential-scd-care-spatial-prioritisation-Uganda/pulls)
 
 ## Summary
 
